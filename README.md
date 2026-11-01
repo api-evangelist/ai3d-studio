@@ -1,4 +1,4 @@
-# ai3d-studio
+# AI3D Studio
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,143 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-ai3d-studio is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://ai3d.studio/
+AI3D Studio provides an AI‑powered 3D generation platform that transforms images, sketches or prompts into high‑quality 3D models in formats such as GLB, FBX, STL and USDZ. Featuring eleven specialized generation models and thirteen post‑processing tools for re‑texturing, rigging and print preparation, the service targets game developers, 3D artists and makers seeking fast, automated creation pipelines.
+
+**Areas:** AI · 3D · Generation · Gaming · 3D Printing · Studio
+
+## AI3D Studio on APIs.io
+
+Everything profiled for AI3D Studio is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/ai3d-studio/](https://apis.io/providers/ai3d-studio/)** — or go straight to one of the APIs or properties below.
+
+### APIs (8)
+
+- [AI3D Studio Batches API](https://apis.io/apis/ai3d-studio/ai3d-studio-batches-api/) — The Batches API from AI3D Studio — 3 operation(s) for batches.
+- [AI3D Studio Capabilities API](https://apis.io/apis/ai3d-studio/ai3d-studio-capabilities-api/) — The Capabilities API from AI3D Studio — 1 operation(s) for capabilities.
+- [AI3D Studio Generate API](https://apis.io/apis/ai3d-studio/ai3d-studio-generate-api/) — The Generate API from AI3D Studio — 1 operation(s) for generate.
+- [AI3D Studio Health API](https://apis.io/apis/ai3d-studio/ai3d-studio-health-api/) — The Health API from AI3D Studio — 1 operation(s) for health.
+- [AI3D Studio Me API](https://apis.io/apis/ai3d-studio/ai3d-studio-me-api/) — The Me API from AI3D Studio — 1 operation(s) for me.
+- [AI3D Studio Quote API](https://apis.io/apis/ai3d-studio/ai3d-studio-quote-api/) — The Quote API from AI3D Studio — 1 operation(s) for quote.
+- [AI3D Studio Tools API](https://apis.io/apis/ai3d-studio/ai3d-studio-tools-api/) — The Tools API from AI3D Studio — 1 operation(s) for tools.
+- [AI3D Studio Workflows API](https://apis.io/apis/ai3d-studio/ai3d-studio-workflows-api/) — The Workflows API from AI3D Studio — 1 operation(s) for workflows.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Ai3D Studio Agentic Access](https://apis.io/agentic-access/ai3d-studio/ai3d-studio-agentic-access/)
+
+#### JSON Schema (1)
+
+The data models the API reads and writes.
+
+- [GenerationRequest](https://apis.io/schemas/ai3d-studio/ai3d-studio-generation-request/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Ai3D Studio Context](https://apis.io/jsonld/ai3d-studio/ai3d-studio-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [AI3D Studio API Rules](https://apis.io/rules/ai3d-studio/ai3d-studio-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Ai3D Studio Authentication](https://apis.io/security/ai3d-studio/ai3d-studio-authentication/)
+- [Ai3D Studio Domain Security](https://apis.io/security/ai3d-studio/ai3d-studio-domain-security/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Ai3D Studio Scopes](https://apis.io/scopes/ai3d-studio/ai3d-studio-scopes/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Ai3D Studio Plans Pricing](https://apis.io/plans/ai3d-studio/ai3d-studio-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Ai3D Studio Rate Limits](https://apis.io/rate-limits/ai3d-studio/ai3d-studio-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://ai3d.studio/)
+- [Documentation](https://ai3d.studio/docs)
+- [Getting started](https://ai3d.studio/docs/image-to-3d)
+- [API reference](https://ai3d.studio/docs/teams-and-api)
+- [Pricing](https://ai3d.studio/pricing)
+- [Support](https://ai3d.studio/support)
+- [Terms of service](https://ai3d.studio/terms-of-service)
+- [Privacy policy](https://ai3d.studio/privacy-policy)
+
+## API Evangelist rating
+
+**Kin Score 51.5** — developing · rubric 0.26.0 · scored 2026-11-01
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 51.8 |
+| Contract governance | 79.1 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 49.3 |
+| Access clarity | 50.5 |
+
+**Agent readiness 58.0** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | verified |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 31.8** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/ai3d-studio/](https://apis.io/providers/ai3d-studio/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for AI3D Studio: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/ai3d-studio/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
