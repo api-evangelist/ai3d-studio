@@ -66,7 +66,7 @@
 
 AI3D Studio provides an AI‑powered 3D generation platform that transforms images, sketches or prompts into high‑quality 3D models in formats such as GLB, FBX, STL and USDZ. Featuring eleven specialized generation models and thirteen post‑processing tools for re‑texturing, rigging and print preparation, the service targets game developers, 3D artists and makers seeking fast, automated creation pipelines.
 
-**Areas:** AI · 3D · Generation · Gaming · 3D Printing · Studio
+**Areas:** Artificial Intelligence · 3D · Generation · Gaming · 3D Printing · Studio
 
 ## AI3D Studio on APIs.io
 
@@ -91,7 +91,7 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 Which operations an agent can call, which act, and which need a human in the loop.
 
-- [Ai3D Studio Agentic Access](https://apis.io/agentic-access/ai3d-studio/ai3d-studio-agentic-access/)
+- [AI3D Studio Agentic Access](https://apis.io/agentic-access/ai3d-studio/ai3d-studio-agentic-access/)
 
 #### JSON Schema (1)
 
@@ -115,26 +115,26 @@ Spectral rulesets for the provider's contracts.
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Ai3D Studio Authentication](https://apis.io/security/ai3d-studio/ai3d-studio-authentication/)
-- [Ai3D Studio Domain Security](https://apis.io/security/ai3d-studio/ai3d-studio-domain-security/)
+- [AI3D Studio Authentication](https://apis.io/security/ai3d-studio/ai3d-studio-authentication/)
+- [AI3D Studio Domain Security](https://apis.io/security/ai3d-studio/ai3d-studio-domain-security/)
 
 #### OAuth scopes (1)
 
 The permissions the API asks for.
 
-- [Ai3D Studio Scopes](https://apis.io/scopes/ai3d-studio/ai3d-studio-scopes/)
+- [AI3D Studio Scopes](https://apis.io/scopes/ai3d-studio/ai3d-studio-scopes/)
 
 #### Plans and pricing (1)
 
 Published plans, tiers and prices.
 
-- [Ai3D Studio Plans Pricing](https://apis.io/plans/ai3d-studio/ai3d-studio-plans-pricing/)
+- [AI3D Studio Plans Pricing](https://apis.io/plans/ai3d-studio/ai3d-studio-plans-pricing/)
 
 #### Rate limits (1)
 
 Published request limits.
 
-- [Ai3D Studio Rate Limits](https://apis.io/rate-limits/ai3d-studio/ai3d-studio-rate-limits/)
+- [AI3D Studio Rate Limits](https://apis.io/rate-limits/ai3d-studio/ai3d-studio-rate-limits/)
 
 ## Where to find this API
 
@@ -151,34 +151,34 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 51.5** — developing · rubric 0.26.0 · scored 2026-11-01
+**Kin Score 47.1** — developing · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 66.1 |
-| Contract quality | 51.8 |
-| Contract governance | 79.1 |
+| Discoverability | 83.9 |
+| Contract quality | 54.8 |
+| Contract governance | 22.0 |
 | Operational transparency | 0.0 |
 | Developer ergonomics | 49.3 |
-| Access clarity | 50.5 |
+| Access clarity | 57.4 |
 
-**Agent readiness 58.0** — agent-ready (gated down from agent-native)
+**Agent readiness 55.2** — agent-native
 
 | Agent-readiness dimension | Result |
 |---|---|
 | Spec Presence | yes |
-| Agentic Access | unknown |
+| Agentic Access | derived (partial credit) |
 | Reversibility Documented | — |
-| MCP Server | documented (partial credit) |
+| MCP Server | — |
 | Auth Clarity | served (partial credit) |
 | Idempotency | verified |
-| Error Semantics | derived (partial credit) |
+| Error Semantics | verified |
 | OpenAPI Examples | — |
 | Rate Limit Signal | documented (partial credit) |
 | Event Surface Described | — |
 | Agent Skills | unknown |
 | Well Known Catalog | yes |
-| Consent Identity | — |
+| Consent Identity | signal |
 | Agent Card | — |
 | Dry Run Mode | — |
 | Delegated Identity | served (partial credit) |
@@ -188,8 +188,11 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Pagination Ratio | na |
 | Operation Distinctiveness | distinct |
 | MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
-**Regulatory alignment 31.8** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 26.4** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/ai3d-studio/](https://apis.io/providers/ai3d-studio/).
 
